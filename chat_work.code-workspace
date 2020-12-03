@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../1_test"
+		},
+		{
+			"path": "../chr"
+		},
+		{
+			"path": "../newdev"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+	}
+}

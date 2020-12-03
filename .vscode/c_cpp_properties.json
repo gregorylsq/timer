@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/greg/linux_kernel/linux-source-5.4.0/include",
+                // "/home/greg/linux_kernel/linux-imx-rel_imx_4.1.15_2.1.0_ga/include",
+                // "/home/greg/linux_kernel/linux-imx-rel_imx_4.1.15_2.1.0_ga/arch/arm/include"
+                "/home/greg/linux_kernel/linux-source-5.4.0/arch/x86/include",
+                "/home/greg/linux_kernel/linux-source-5.4.0/arch/x86/include/generated"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
